@@ -1,4 +1,4 @@
-package colecciones.listas.arraylist.listaenlazada;
+package collections.lists.linkedlist;
 
 public class LinkedListApp {
     public static void main(String[] args) {

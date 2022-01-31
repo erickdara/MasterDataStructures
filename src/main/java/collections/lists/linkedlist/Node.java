@@ -1,4 +1,4 @@
-package colecciones.listas.arraylist.listaenlazada;
+package collections.lists.linkedlist;
 
 public class Node {
     private Object data;

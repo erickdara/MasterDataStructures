@@ -1,4 +1,4 @@
-package colecciones.listas.arraylist.listaenlazada;
+package collections.lists.linkedlist;
 
 public class SimpleLinkedList {
     private Node first; // Referencia al primer nodo de la lista enlazada.
